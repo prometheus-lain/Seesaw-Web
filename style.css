@@ -5,6 +5,13 @@ body {
     background-color: #edeff2;
 }
 
+.title-bar {
+	background: #ebf9d5;
+	color: #4c4042;
+	text-align: center;
+	display: block;
+}
+
 .nav {
     background-color: #31658c;
     color: #ffffff;
