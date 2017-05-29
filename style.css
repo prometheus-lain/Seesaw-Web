@@ -1,11 +1,12 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: Raleway, serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: #edeff2;
 }
 
 .nav {
-    background-color: #595959;
+    background-color: #31658c;
     color: #ffffff;
     list-style: none;
     text-align: center;
