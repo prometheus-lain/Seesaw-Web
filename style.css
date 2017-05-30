@@ -5,7 +5,7 @@
 }
 
 body {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'CrimsonRoman','Roboto', sans-serif;
 	background-color: #edeff2;
 }
 
@@ -24,6 +24,7 @@ body {
 .top {
 	background: #ebf9d5;
 }
+
 .titlebar {
 	color: #4c4042;
 	text-align: center;
@@ -40,7 +41,7 @@ body {
 .nav>li {
 	display: inline-block;
 	padding: 0 25px 0 25px;
-	text-transform: uppercase;
+	text-transform: lowercase;
 }
 
 .nav>li>a {
